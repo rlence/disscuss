@@ -118,3 +118,16 @@
   0% { opacity: 1; }
   100% { opacity: 0; }
 }
+
+.invalid-feedback{
+  color: red;
+  text-transform: capitalize;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.form-group{
+  position: relative;
+  margin-bottom: 25px;
+
+}
